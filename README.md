@@ -39,6 +39,7 @@ Aqui estão minhas estatísticas do GitHub 💻
 ##
     
 - 🎂 Nascido em 18/01/2002    
+- Engenharia de Software Faculdade INTELI | 2022 - 2025
 - 📘 Estudante de JavaScript no Instituto PROA | 2021 - 2022
 - 🏡 Técnico em Edificações pela Etec Itaquera II | 2018-2020 - Ensino Técnico Integrado ao Médio
 - 📨 Você pode entrar em contato comigo pelo e-mail: leandro.oliveiracustodio02@hotmail.com
