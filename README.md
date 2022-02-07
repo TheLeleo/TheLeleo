@@ -43,6 +43,6 @@ Aqui estão minhas estatísticas do GitHub 💻
 - 🏡 Técnico em Edificações pela Etec Itaquera II | 2018-2020 - Ensino Técnico Integrado ao Médio
 - 📨 Você pode entrar em contato comigo pelo e-mail: leandro.oliveiracustodio02@hotmail.com
   
-![Snake animation](https://github.com/LPHBackspace/LPHBackspace/blob/output/github-contribution-grid-snake.svg)   
+![Snake animation](https://github.com/TheLeleo/TheLeleo/blob/output/github-contribution-grid-snake.svg)   
   
   ##
