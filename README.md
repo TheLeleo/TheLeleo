@@ -42,6 +42,6 @@ Aqui estão minhas estatísticas do GitHub 💻
 - 📨 Você pode entrar em contato comigo pelo e-mail: leandro.oliveiracustodio02@hotmail.com
 - 👨‍💻 Link para <a href="https://lphbackspace.github.io/site_curriculo/public/index.html">curículo virtual</a>
   
-    ![snake animation](https://github.com/TheLeleo/TheLeleo/blob/output/github-contribution-grid-snake.gif)
+    ![snake animation](https://github.com/TheLeleo/TheLeleo/blob/output/github-contribution-grid-snake.svg)
   
   ##
